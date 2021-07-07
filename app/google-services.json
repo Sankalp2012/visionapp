@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "448417746300",
+    "firebase_url": "https://vision-fb2b5.firebaseio.com",
+    "project_id": "vision-fb2b5",
+    "storage_bucket": "vision-fb2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448417746300:android:b206ec42ac276751d1e8f9",
+        "android_client_info": {
+          "package_name": "com.grippingstories.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448417746300-2h4huohkni9och1mh0gi5i4h15eo5hrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_BJCG7yMgCkHVROfwqfF-51uMG9Nprg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448417746300-2h4huohkni9och1mh0gi5i4h15eo5hrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448417746300:android:323bf3bce59ca953d1e8f9",
+        "android_client_info": {
+          "package_name": "com.grippingstories.visionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448417746300-2h4huohkni9och1mh0gi5i4h15eo5hrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_BJCG7yMgCkHVROfwqfF-51uMG9Nprg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448417746300-2h4huohkni9och1mh0gi5i4h15eo5hrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
